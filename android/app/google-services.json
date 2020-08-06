@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "825395605819",
+    "firebase_url": "https://dekornata-submission-test.firebaseio.com",
+    "project_id": "dekornata-submission-test",
+    "storage_bucket": "dekornata-submission-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825395605819:android:7f1515271395c7e0d3c71e",
+        "android_client_info": {
+          "package_name": "com.example.dekornata_submission_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825395605819-3p2p01vu8k1popbl786giim6vmvm2kkl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dekornata_submission_test",
+            "certificate_hash": "f2242b804a3cbc73b993600cb0938735801879bc"
+          }
+        },
+        {
+          "client_id": "825395605819-spkeoiif369eo67paear0vvdf01n54ta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwGdRrUIZKylzKOaqHzeJ8ZDCYTf2CdHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825395605819-spkeoiif369eo67paear0vvdf01n54ta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
