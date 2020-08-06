@@ -39,7 +39,7 @@ class CartPage extends StatelessWidget {
                         child: ListTile(
                           title: Text(_product),
                           subtitle: Text('Qty in cart: $qty'),
-                          trailing: Text(),
+                          trailing: Text("200000"),
                         ),
                       ),
                       onDismissed: (DismissDirection dir) {
@@ -71,7 +71,7 @@ class CartPage extends StatelessWidget {
             maxHeight: Spacing.matGridUnit(scale: 8),
             child: Center(
               child: Text(
-                "Cart Total: 5.00",
+                "Cart Total: 200000",
                 style: Theme.of(context).textTheme.headline5,
               ),
             ),

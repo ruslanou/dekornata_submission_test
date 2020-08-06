@@ -74,7 +74,7 @@ class _UserProfileFormState extends State<UserProfileForm> {
     Widget avatar = Padding(
         padding: EdgeInsets.all(8.0),
         child: CircleAvatar(
-          backgroundImage: AssetImage("assets/images/apple-in-hand.jpg"),
+          backgroundImage: AssetImage("assets/images/dekornata-logo.jpg"),
           radius: 60.0,
         ));
 
